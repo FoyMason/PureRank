@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge"
 import { Search, Shield, TrendingUp, Star, MapPin, Users, DollarSign, Award, Target, Zap } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "PureRank Strategies | #1 Marketing Agency for Southern Utah Tourism & Real Estate",
+  title: "PureRank Strategies | #1 Marketing Agency for Southern Utah",
   description:
     "St. George's premier digital marketing agency. We help Southern Utah tourism companies, vacation rentals, and real estate businesses dominate Google, attract more customers, and grow revenue with proven local SEO strategies.",
   alternates: {
