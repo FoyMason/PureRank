@@ -275,6 +275,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         {/* Lucky Orange Analytics */}
         <Script src="https://tools.luckyorange.com/core/lo.js?site-id=95e7cbdf" strategy="afterInteractive" />
+
+        <Script id="hs-script-loader" src="//js-na2.hs-scripts.com/244684545.js" strategy="afterInteractive" />
       </body>
     </html>
   )
